@@ -16,6 +16,6 @@ Python | Pandas | Scikit-learn | Power BI | SQL | EDA | Regression | Classificat
 
 Fallout Analysis: Identified key drivers of delivery fallouts using OLS and RandomForest
 
-Capstone Forecasting: Built and tuned regression models to predict store sales using Pandas, XGBoost
+Predictive models: Built and tuned regression models by Bagging, AdaBoost, RandomForestRegressor/Classifier, DecisionTree, Gradient Boosting, XGBoost
 
-Dashboarding: Created interactive Power BI reports for leadership using clean, intuitive UX
+Dashboarding: Created interactive Power BI dashboards and reports for leadership using clean, intuitive UX
